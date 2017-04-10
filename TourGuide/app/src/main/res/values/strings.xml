@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <!-- Category name for Aswan -->
+    <string name="category_Aswan">Aswan</string>
+
+    <!-- Category name for Alexandria -->
+    <string name="category_Alexandria">Alexandria</string>
+
+    <!-- Category name for Cairo  -->
+    <string name="category_Cairo">Cairo</string>
+
+    <!-- Category name for  Luxor-->
+    <string name="category_Luxor"> Luxor</string>
+
+    <string name="Historical_Monument">Historical_Monument</string>
+    <string name="Information">Information: </string>
+    <string name="Address">Address: </string>
+
+    <string name="cairo_0_tittle">Fortress of Babylon</string>
+    <string name="cairo_0_information">Babylon Fortress was an ancient fortress city or castle in the Delta of Egypt, located in the area today known as Coptic Cairo.</string>
+    <string name="cairo_0_address">Mari Gerges, Kom Ghorab, Misr Al Qadimah</string>
+    <string name="cairo_1_tittle">Bab al-Futuh</string>
+    <string name="cairo_1_information">Bab al Futuh is one of three remaining gates in the walls of the Old City of Cairo, Egypt. It was finished in the year 1087 and faces north. It stands at the northern end of Muizz Street</string>
+    <string name="cairo_1_address">Bab Al Foutoh, Al Banhawi, Qism El-Gamaleya</string>
+    <string name="cairo_2_tittle">Cairo Tower</string>
+    <string name="cairo_2_information">The Cairo Tower is a free-standing concrete tower located in Cairo, Egypt. At 187 m, it has been the tallest structure in Egypt and North Africa for about 50 years.</string>
+    <string name="cairo_2_address">Zamalek</string>
+    <string name="cairo_3_tittle">Salah El Din Al Ayouby Citadel</string>
+    <string name="cairo_3_information">The Saladin Citadel of Cairo is a medieval Islamic fortification in Cairo, Egypt. The location, on Mokattam hill near the center of Cairo, was once famous for its fresh breeze and grand views of the city.</string>
+    <string name="cairo_3_address"> Al Abageyah, Qesm Al Khalifah</string>
+    <string name="cairo_4_tittle">Khan el-Khalili</string>
+    <string name="cairo_4_information">Khan el-Khalili is a major souk in the Islamic district of Cairo. The bazaar district is one of Cairo\'s main attractions for tourists and Egyptians alike</string>
+    <string name="cairo_4_address">El-Gamaleya, Qism El-Gamaleya</string>
+    <string name="cairo_5_tittle">Al-Azhar Mosque</string>
+    <string name="cairo_5_information">Al-Azhar Mosque is an Egyptian mosque in Islamic Cairo. Al-Mu\'izz li-Din Allah of the Fatimid Caliphate commissioned its construction for the newly established capital city in 970.</string>
+    <string name="cairo_5_address">El-Darb El-Ahmar</string>
+    <string name="cairo_6_tittle">Abdeen Palace</string>
+    <string name="cairo_6_information">Abdeen Palace is a historic Cairo palace, and one of the official residences and the principal workplace of the President of Egypt, located above Qasr el-Nil Street in eastern Downtown Cairo, Egypt.</string>
+    <string name="cairo_6_address">El-Gomhoreya Square, Rahbet Abdin, Abdeen</string>
+    <string name="cairo_7_tittle">Great Sphinx of Giza</string>
+    <string name="cairo_7_information">The Great Sphinx of Giza, commonly referred to as the Sphinx of Giza or just the Sphinx, is a limestone statue of a reclining sphinx, a mythical creature with the body of a lion and the head of a human.</string>
+    <string name="cairo_7_address">Nazlet El-Semman, Al Haram, Giza Governorate</string>
+    <string name="cairo_8_tittle">Giza pyramid complex</string>
+    <string name="cairo_8_information">The Giza pyramid complex is an archaeological site on the Giza Plateau, on the outskirts of Cairo, Egypt</string>
+    <string name="cairo_8_address">Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate</string>
+    <string name="Alexandria_0_title">Bibliotheca Alexandrina</string>
+    <string name="Alexandria_0_information">The Royal Library of Alexandria or Ancient Library of Alexandria in Alexandria, Egypt, was one of the largest and most significant libraries of the ancient world. It was dedicated to the Muses, the nine goddesses of the arts</string>
+    <string name="Alexandria_0_address">Al Azaritah WA Ash Shatebi, Qesm Bab Sharqi</string>
+    <string name="Alexandria_1_title">Abu al-Abbas al-Mursi Mosque</string>
+    <string name="Alexandria_1_information">The Abu al-Abbas al-Mursi Mosque is an Egyptian mosque in the city of Alexandria. It is dedicated to the 13th century Alexandrine Sufi saint Abul Abbas al-Mursi, whose tomb it contains.</string>
+    <string name="Alexandria_1_address">ميدان المساجد، الجمرك، Qesm Al Gomrok</string>
+    <string name="Alexandria_2_title">Alexandria Opera House</string>
+    <string name="Alexandria_2_information">Alexandria Opera House or Sayyid Darwish Theatre was built in 1918 and opened in 1921 in the city of Alexandria, Egypt. When it opened, it was named Teatro Mohamed Ali</string>
+    <string name="Alexandria_2_address">No.22, Al Mesallah Sharq, Qesm Al Attarin</string>
+    <string name="Alexandria_3_title">Citadel of Qaitbay</string>
+    <string name="Alexandria_3_information">The Citadel of Qaitbay is a 15th-century defensive fortress located on the Mediterranean sea coast, in Alexandria, Egypt. It was established in 1477 AD by Sultan Al-Ashraf Sayf al-Din Qa\'it Bay</string>
+    <string name="Alexandria_3_address">As Sayalah Sharq, Qesm Al Gomrok</string>
+    <string name="Alexandria_4_title">Four Seasons Alexandria</string>
+    <string name="Alexandria_4_information">High-end lodging offering chic rooms and suites with balconies, plus a spa and a private beach</string>
+    <string name="Alexandria_4_address">San Stefano Grand Plaza, El-Gaish Rd, San Stifano</string>
+    <string name="Alexandria_5_title">Montaza Palace</string>
+    <string name="Alexandria_5_information">Montaza Palace is a palace and extensive gardens in the Montaza district of Alexandria, Egypt. It was built on a low plateau east of central Alexandria overlooking a beach on the Mediterranean Sea.</string>
+    <string name="Alexandria_5_address">Al Mandarah Bahri, Qism El-Montaza</string>
+    <string name="Alexandria_6_title">Graeco-Roman Museum</string>
+    <string name="Alexandria_6_information">The Graeco-Roman Museum is an archaeological museum in Alexandria, Egypt. Erected in 1892, it was first built in a five-room apartment, inside one small building on Rosetta Street. </string>
+    <string name="Alexandria_6_address">Al Mesallah Sharq, Qesm Al Attarin</string>
+    <string name="luxor_0_title">Valley of the Queens</string>
+    <string name="luxor_0_information">The Valley of the Queens is a place in Egypt where wives of Pharaohs were buried in ancient times. In ancient times, it was known as Ta-Set-Neferu, meaning –"the place of beauty"</string>
+    <string name="luxor_0_address">Luxor, New Valley Governorate</string>
+    <string name="luxor_1_title">Valley of the Kings</string>
+    <string name="luxor_1_information">The Valley of the Kings, the Valley of the Gates of the Kings, is a valley in Egypt where, for a period of nearly 500 years from the 16th to 11th century BC, tombs were constructed for the Pharaohs and powerful nobles of the New Kingdom.</string>
+    <string name="luxor_1_address">Luxor, New Valley Governorate</string>
+    <string name="luxor_2_title">Sound and Light</string>
+    <string name="luxor_2_information">The Karnak Sound and Light Show highlights the dramatic history of ancient Thebes. The show narrates the achievements of some great Pharaohs, with poetic descriptions of the ancient treasures.</string>
+    <string name="luxor_2_address">Kornish Al Nile, Luxor City</string>
+    <string name="luxor_3_title">Ramesseum</string>
+    <string name="luxor_3_information">The Ramesseum is the memorial temple of Pharaoh Ramesses II. It is located in the Theban necropolis in Upper Egypt, across the River Nile from the modern city of Luxor.</string>
+    <string name="luxor_3_address">Luxor, New Valley Governorate</string>
+    <string name="luxor_4_title">Luxor Temple</string>
+    <string name="luxor_4_information">Luxor Temple is a large Ancient Egyptian temple complex located on the east bank of the Nile River in the city today known as Luxor and was constructed approximately 1400 BCE.</string>
+    <string name="luxor_4_address">Luxor City, Luxor, Luxor Governorate</string>
+    <string name="luxor_5_title">Karnak</string>
+    <string name="luxor_5_information">The Karnak Temple Complex, commonly known as Karnak, comprises a vast mix of decayed temples, chapels, pylons, and other buildings.</string>
+    <string name="luxor_5_address">El-Karnak, Luxor</string>
+    <string name="luxor_6_title">Mortuary Temple of Hatshepsut </string>
+    <string name="luxor_6_information">The Mortuary Temple of Hatshepsut, also known as the Djeser-Djeseru, is an ancient funerary shrine in Upper Egypt.</string>
+    <string name="luxor_6_address">Kings Valley Rd, Qesm Al Wahat Al Khargah, New Valley Governorate</string>
+    <string name="Aswan_0_title">Aswan Dam</string>
+    <string name="Aswan_0_information">The Aswan Dam, or more specifically since the 1960s, the Aswan High Dam, is an embankment dam built across the Nile in Aswan, Egypt between 1960 and 1970</string>
+    <string name="Aswan_0_address">Manteqet as Sad Al Aali, Qism Aswan</string>
+    <string name="Aswan_1_title">Temple of Kom Ombo</string>
+    <string name="Aswan_1_information">The Temple of Kom Ombo is an unusual double temple in the town of Kom Ombo in Aswan Governorate, Upper Egypt. It was constructed during the Ptolemaic dynasty, 180–47 BC. Some additions to it were later made during the Roman period.</string>
+    <string name="Aswan_1_address">Nagoa Ash Shatb, Markaz Deraw</string>
+    <string name="Aswan_2_title">Mausoleum of Aga Khan</string>
+    <string name="Aswan_2_information">The Mausoleum of Aga Khan is the mausoleum of Aga Khan III, Sir Sultan Muhammed Shah, who died in 1957. The mausoleum is located at Aswan, along the Nile of Egypt, since Egypt was formerly the centre of power of the Fatimids.</string>
+    <string name="Aswan_2_address">Sheyakhah Oula, Qism Aswan</string>
+    <string name="Aswan_3_title">Nubian Museum</string>
+    <string name="Aswan_3_information">The Nubian Museum is an archaeological museum located in Aswan, Upper Egypt. It was built to a design by architect Mahmoud El-Hakim for an estimated construction cost of LE 75 million</string>
+    <string name="Aswan_3_address">Assuan, Sheyakhah Oula, Qism Aswan</string>
+    <string name="Aswan_4_title">Monastery of St. Simeon</string>
+    <string name="Aswan_4_information">The Monastery of St. Simeon Stylites the Younger lies on a hill roughly 29 kilometres southwest of Antakya and six kilometres to the east of Samandağ, in the southernmost Turkish province of Hatay.</string>
+    <string name="Aswan_4_address">Aswan Governorate</string>
+    <string name="Aswan_5_title">Elephantine Island Resort</string>
+    <string name="Aswan_5_information">Located on Elephantine Island in the middle of the River Nile, Mövenpick Resort Aswan offers luxurious accommodation with countless services including a swimming pool, tennis court, and gymnasium. Guests can enjoy free WiFi in the whole property including the rooms</string>
+    <string name="Aswan_5_address">Operated By Moevenpick Elephan</string>
+
+</resources>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/tan_background"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/item_list_paddingBottom">
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:src="@drawable/abdeenpalacemuseum" />
+
+    <TextView
+        android:id="@+id/Monument_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image"
+        android:layout_centerHorizontal="true"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@android:color/holo_red_light"
+        android:textStyle="bold"
+        tools:text="@string/Historical_Monument" />
+
+    <TextView
+        android:id="@+id/information_text_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/informationImage"
+        android:layout_marginLeft="@dimen/margin"
+        android:layout_marginStart="@dimen/margin"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textSize="@dimen/text_size"
+        tools:text="information" />
+
+    <ImageView
+        android:id="@+id/informationImage"
+        android:layout_width="@dimen/layout_width"
+        android:layout_height="@dimen/layout_height"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/informationView"
+        android:adjustViewBounds="false"
+        android:cropToPadding="false"
+        android:scaleType="fitStart"
+        app:srcCompat="@mipmap/infromation" />
+
+    <ImageView
+        android:id="@+id/add"
+        android:layout_width="@dimen/layout_width"
+        android:layout_height="@dimen/layout_height"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/address_view"
+        android:scaleType="fitStart"
+        app:srcCompat="@mipmap/address" />
+
+    <TextView
+        android:id="@+id/address_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/address_view"
+        android:layout_alignBottom="@+id/address_view"
+        android:layout_toEndOf="@+id/address_view"
+        android:layout_toRightOf="@+id/address_view"
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textSize="@dimen/text_size"
+        tools:text="address" />
+
+    <TextView
+        android:id="@+id/informationView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Monument_text_view"
+        android:layout_toEndOf="@+id/informationImage"
+        android:layout_toRightOf="@+id/informationImage"
+        android:text="@string/Information"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="@dimen/text_size" />
+
+    <TextView
+        android:id="@+id/address_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/information_text_view"
+        android:layout_marginTop="@dimen/margin"
+        android:layout_toEndOf="@+id/add"
+        android:layout_toRightOf="@+id/add"
+        android:text="@string/Address"
+        android:textColor="@android:color/darker_gray"
+        android:textSize="@dimen/text_size" />
+</RelativeLayout>
+
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="elevation">0dp</dimen>
+    <dimen name="item_list_paddingBottom">5dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+    <dimen name="layout_width">24dp</dimen>
+    <dimen name="layout_height">28dp</dimen>
+    <dimen name="margin">14dp</dimen>
+
+</resources>
